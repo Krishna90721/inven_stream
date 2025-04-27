@@ -1,2 +1,3 @@
-Product,Quantity,Price
-sugar,4,100.0
+Product,Quantity,Price,Supplier
+sugar,10,50.0,Jeevan
+palm oil,100,100.0,prajwal
